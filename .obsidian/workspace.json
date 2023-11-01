@@ -180,15 +180,15 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "462f53cb6236df75",
+  "active": "5499329540978f5a",
   "lastOpenFiles": [
+    "Themen/Klassendiagramme.md",
     "Lernfeld 9/~WRL0001.tmp",
     "Lernfeld 9/~WRD0000.tmp",
     "Lernfeld 9/~$AN - Aufbau und Funktionsweise.odt",
     "conflict-files-obsidian-git.md",
     "Themen/IP-Adressen.md",
     "Themen/Übersicht.md",
-    "Themen/Klassendiagramme.md",
     "Anhang/SVG/Private_IPv4.svg",
     "Anhang/LF11b/Großvater-Vater-Sohn.pdf",
     "Anhang/LF11b/end-to-end-vpn.svg",
@@ -228,7 +228,6 @@
     "Anhang/SVG/Klassendiagramme.drawio",
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
     "Themen",
-    "Verschlüsselung.tex",
-    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP"
+    "Verschlüsselung.tex"
   ]
 }

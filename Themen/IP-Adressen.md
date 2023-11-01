@@ -1,7 +1,7 @@
 ### 169.254.X.X
 <<<<<<< HEAD
 APIPA-Adresse
-=======sss
+=======
 #### IPv4
 32 bit -> 4,4 Mrd. Adressen
 schreibweise Dezimalschreibweise vier Oktetts (8 bit)
