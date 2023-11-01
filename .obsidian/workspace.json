@@ -180,8 +180,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5499329540978f5a",
+  "active": "462f53cb6236df75",
   "lastOpenFiles": [
+    "Lernfeld 9/~WRL0001.tmp",
+    "Lernfeld 9/~WRD0000.tmp",
+    "Lernfeld 9/~$AN - Aufbau und Funktionsweise.odt",
     "conflict-files-obsidian-git.md",
     "Themen/IP-Adressen.md",
     "Themen/Übersicht.md",
@@ -219,7 +222,6 @@
     "Themen/USV.md",
     "IP-Adressen.md",
     "Lernfeld 11b/Firewall.md",
-    "Lernfeld 11b/Routing.md",
     "Anhang/SVG/VLAN.drawio",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -227,8 +229,6 @@
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
     "Themen",
     "Verschlüsselung.tex",
-    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP",
-    "Anhang/Excel/lu158084ooz5.tmp",
-    "Anhang/Excel/lu158084ooz2.tmp"
+    "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP"
   ]
 }
