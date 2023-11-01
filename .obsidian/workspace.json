@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7501b6ce28e2e5b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/IP-Adressen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5499329540978f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Themen/IP-Adressen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Themen/Klassendiagramme.md",
+                "file": "Themen/IP-Adressen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Themen/Klassendiagramme.md",
+                "file": "Themen/IP-Adressen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Themen/Klassendiagramme.md"
+                "file": "Themen/IP-Adressen.md"
               }
             }
           },
@@ -155,9 +180,13 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "39fb6c456cfa9153",
+  "active": "5499329540978f5a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Themen/IP-Adressen.md",
     "Themen/Übersicht.md",
+    "Themen/Klassendiagramme.md",
+    "Anhang/SVG/Private_IPv4.svg",
     "Anhang/LF11b/Großvater-Vater-Sohn.pdf",
     "Anhang/LF11b/end-to-end-vpn.svg",
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf",
@@ -171,13 +200,11 @@
     "Lernfeld 7/MQTT.md",
     "Lernfeld 7/Laborprotokoll.md",
     "Lernfeld 7/Klausur 06.07.23.md",
-    "Themen/IP-Adressen.md",
     "Hypervisor.md",
     "Anhang/SVG/Hypervisor_Typ2.drawio.svg",
     "Anhang/SVG/Hypervisor_Typ1.drawio.svg",
     "Themen/Datenbank Modelle.md",
     "Themen/Diffie-Hellman.md",
-    "Themen/Klassendiagramme.md",
     "Datenbank Modelle.md",
     "Themen/VLAN.md",
     "Themen/Spanning Tree.md",
@@ -198,7 +225,6 @@
     "Untitled 1.canvas",
     "Anhang/SVG/Klassendiagramme.drawio",
     "Anhang/SVG/Klassendiagramme_Komposition.svg",
-    "Anhang/SVG/Klassendiagramme_Aggregation.svg",
     "Themen",
     "Verschlüsselung.tex",
     "Anhang/Excel/Symmetrische_Verschlüsselung-Vor-Nachteile.pdf~RF80226d.TMP",
