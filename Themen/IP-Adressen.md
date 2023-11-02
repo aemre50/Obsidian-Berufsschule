@@ -14,5 +14,11 @@ Diese Adressen werden im Internet nicht geroutet *
 ![[Private_IPv4.svg|710]]
 
 ##### Dualstack
-s
->>>>>>> origin/main
+
+
+
+
+
+![[Pasted image 20231102182148.png]]
+
+![[Pasted image 20231102182454.png]]
